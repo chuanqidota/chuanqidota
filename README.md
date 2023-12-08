@@ -1,4 +1,5 @@
 ![:Augenestern-creator](https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h) 
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="picture" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <p align="left">
 </p>
