@@ -2,7 +2,7 @@
 
 <!-- programming tool icon 编程工具图标 -->
 <img width="200%" src="https://skillicons.dev/icons?i=python,django,docker,flask,git,github,gitlab,go,grafana,html,js,jenkins,jquery,kafka,kubernetes,linux,lua,md,matlab,mongodb,mysql,nginx,ps,postgres,postman,powershell,prometheus,py,qt,rabbitmq,react,redis,regex,rocket,selenium,sentry,twitter,v,vim,vite,vscode,vue,wordpress,c,instagram" /><br>
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
 <div align="center">
 
 
