@@ -2,13 +2,10 @@
 <img width="200%" src="https://img1.baidu.com/it/u=490960660,37346913&fm=253&fmt=auto&app=138&f=JPEG?w=1139&h=500" />
 <img width="299%" src="https://i0.hdslb.com/bfs/archive/828d2831957f096f0ec5cb7b5d47e743df7549e9.jpg" />
 <!-- programming tool icon 编程工具图标 -->
-<img width="200%" src="https://skillicons.dev/icons?i=python,django,docker,flask,git,github,gitlab,go,grafana,html,js,jenkins,jquery,kafka,kubernetes,linux,lua,md,matlab,mongodb,mysql,nginx,ps,postgres,postman,powershell,prometheus,py,qt,rabbitmq,react,redis,regex,rocket,selenium,sentry,twitter,v,vim,vite,vscode,vue,wordpress,c,instagram" /><br>
+
 
 <div align="center">
 
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
   
 
