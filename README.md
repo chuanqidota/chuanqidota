@@ -6,20 +6,6 @@
 <!-- programming tool icon 编程工具图标 -->
 
 
-<div align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="example/dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="example/light.svg"
-  />
-  <img alt="Breakout Game" src="example/light.svg" />
-</picture>
-
-
   
 
 
